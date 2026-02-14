@@ -1,5 +1,5 @@
 # Projet_Chlordecone_Theo_Roussel
-Vous trouverez ici la réalisation d’un projet de première année à l’ENSAR portant sur l’analyse de la contamination au chlordécone en Martinique.
+Vous trouverez ici la réalisation d’un projet de première année à l’ENSAR parcours Science de la Donnée portant sur l’analyse de la contamination au chlordécone en Martinique.
 
 Objectif :
 Ce projet analyse la contamination des sols au chlordécone en Martinique afin d’identifier les zones les plus touchées et d’aider à la prise de décision publique.
@@ -29,9 +29,9 @@ Fonctionnement du projet :
 
 Contenu du notebook :
 
-    Le notebook python permet de :
+    Le notebook python contient plusieurs parties :
         Nettoyer les données
-        Analyse descriptive
+        Analyser descriptive
         Création des tables agrégées
         Visualiser les premiers résultats
         ACP et clustering
