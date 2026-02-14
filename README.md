@@ -10,12 +10,18 @@ Les données couvrent :
 -	Période : 2005 – 2019
 
 Organisation du dossier :
+
 • 📁 data/ - données
+
     •	📁 source/ - données brutes
     •	📁 dataclean/ - données nettoyées
+    
 • 📁 outputs/ - tables agrégées prêtes pour Power BI
+
 • 📓 Chlordecone_Theo_Roussel.ipynb - notebook (nettoyage, analyse, clustering)
+
 • 📊 Power BI Théo.pbix – Tableau de bord
+
 • 📄 Aide à la décision Chlordécone.pdf - synthèse & recommandations
 
 Fonctionnement du projet :
